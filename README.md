@@ -47,4 +47,4 @@ Estudante de Engenharia de Software na FUCAPI.
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/viniciusalvesdacosta) · [viniciusalvesdacosta40@gmail.com](mailto:viniciusalvesdacosta40@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/viniciusalvesdacosta) · [viniciusalvesdacosta.dev@gmail.com](mailto:viniciusalvesdacosta.dev@gmail.com)
