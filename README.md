@@ -17,7 +17,7 @@ Estudante de Engenharia de Software na FUCAPI.
 | Projeto | O que é | Stack |
 |---|---|---|
 | [QRO](https://github.com/Alvesvnc/QRO) | Pedido em mesa por QR code, de restaurante único a praça de alimentação (SaaS multi-tenant) | React, Fastify, Prisma, PostgreSQL, Socket.io |
-| Empórium da Horta | Loja virtual de hortifruti com painel do dono e rota do motorista (código privado) | React, Fastify, Prisma, PostgreSQL |
+| [Empórium da Horta](https://github.com/Alvesvnc/emporium-da-horta) | Loja virtual de hortifruti com painel do dono e rota do motorista | React, Fastify, Prisma, PostgreSQL |
 | Lumnia | SaaS multi-tenant de gestão para clínicas de estética (código privado) | React, Fastify, Prisma, Supabase |
 | Lumnia Go | SaaS para esteticista autônoma (código privado) | React, Fastify, Prisma, Supabase |
 
