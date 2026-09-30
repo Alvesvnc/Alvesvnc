@@ -44,3 +44,7 @@ Estudante de Engenharia de Software na FUCAPI.
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/viniciusalvesdacosta) · [viniciusalvesdacosta40@gmail.com](mailto:viniciusalvesdacosta40@gmail.com)
