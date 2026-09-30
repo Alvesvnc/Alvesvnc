@@ -6,11 +6,11 @@ Estudante de Engenharia de Software na FUCAPI.
 
 ## O que eu faço
 
-- **Produtos web fullstack:** TypeScript, React, Fastify, Prisma, PostgreSQL, Supabase
-- **Dados e SQL:** consultas complexas em SQL Server sobre ERP (comissões, auditoria de frete, estoque)
+- **Produtos web fullstack:** TypeScript, React, Fastify, Prisma, PostgreSQL (Supabase)
+- **Dados e SQL:** consultas e relatórios em SQL Server sobre ERP (comissões, auditoria de frete, estoque)
 - **Automação e integrações:** n8n, APIs REST, bots no Slack, web scraping com Puppeteer
 - **CRM:** administração de Salesforce (Sales Cloud, Service Cloud, Digital Engagement, Omni-Channel)
-- **IA aplicada:** agentes virtuais de atendimento e vendas, projetos de machine learning, hackathons de IA
+- **IA aplicada:** agentes virtuais de atendimento e vendas, projetos de machine learning
 
 ## Projetos
 
